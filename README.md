@@ -1,4 +1,4 @@
-### Hi there 👋 I’m vijay kumar
+### Hi 👋 I’m vijay kumar
 
 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 
