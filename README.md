@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi, I’m @Abhik35
+### Hi there 👋 I’m vijay kumar
 
 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 
