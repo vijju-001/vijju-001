@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Science, Machine Learning,Data Analytics
 
-🌱 I have knowledge in  Python for datascience, Tableau, Power BI, MySQL and Machine learing
+🌱 I have knowledge in  Basic Python for datascience, Tableau, Power BI, MySQL and Machine learing
 
 💞️ I’m looking to collaborate on all topics related to Machine Learning and data Analytics.
 
